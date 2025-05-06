@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Youssef Abbes</h1>
-<p>🎓 Industrial IT and Automation Engineering student at <a href="https://www.insat.rnu.tn/" target="_blank">INSAT, Tunisia</a></p>
+<p>🎓 Industrial IT and Automation Engineering student at <a href="https://www.insat.rnu.tn/" target="_blank">INSAT</a></p>
 <p>🤖 AI Enthusiast | 🧠 Machine Learning Engineer</p>
 <p>💻 Passionate about solving real-world problems with data and intelligent systems</p>
 
@@ -36,9 +36,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href=""></a></li>
+
 <h2>⚡️ Where to find me</h2>
 
 <p>
@@ -59,10 +57,10 @@
   <img alt="github-snake" src="https://github.com/youssefab-11/youssefab-11/blob/output/snake.svg" />
 </picture>
 
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefab-11" alt="youssefab-11" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefab-11&show_icons=true&locale=en" alt="youssefab-11" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefab-11&" alt="youssefab-11" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefab-11&show_icons=true&locale=en&layout=compact" alt="youssefab-11" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefab-11" alt="youssefab-11" /></a></p>
 
 <!--
 **youssefab-11/youssefab-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
