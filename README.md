@@ -3,6 +3,14 @@
 🤖 AI Enthusiast | 🧠 Machine Learning Engineer  
 💻 Passionate about solving real-world problems using data and intelligent systems  
 
+
+
+- 🔭 I’m currently working on my Professional Personal Project 
+- 🌱 I’m currently learning Building RAG Agents with LLMs 
+- 👯 I’m looking to collaborate on ...
+- 📫 How to reach me: ... (what to add here)
+
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -50,8 +58,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on my Professional Personal Project 
+- 🌱 I’m currently learning Building RAG Agents with LLMs 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
