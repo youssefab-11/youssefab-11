@@ -5,7 +5,7 @@
 
 
 
--- 🔭 I’m currently working on my Personal Project: **AI-Powered Road Sign Recognition for Driver Assistance and Autonomous Navigation**
+- 🔭 I’m currently working on my Personal Project : **AI-Powered Road Sign Recognition for Driver Assistance and Autonomous Navigation**
 - 🌱 I’m currently learning **how to build RAG agents with LLMs**
 - 👯 I’m looking to collaborate on **AI/ML projects**
 
@@ -40,11 +40,17 @@
 <ul>
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/youssefabbes/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefab-11&show_icons=true&locale=en" alt="youssefab-11" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefab-11&" alt="youssefab-11" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefab-11&show_icons=true&locale=en&layout=compact" alt="youssefab-11" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefab-11" alt="youssefab-11" /></a></p>
+
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/youssefabbes/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a target="_blank" href="mailto:youssef.abbes111@gmail.com" style="display: inline-block; margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 
 
 <picture>
@@ -52,6 +58,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youssefab-11/youssefab-11/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/youssefab-11/youssefab-11/blob/output/snake.svg" />
 </picture>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefab-11&show_icons=true&locale=en" alt="youssefab-11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefab-11&" alt="youssefab-11" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefab-11&show_icons=true&locale=en&layout=compact" alt="youssefab-11" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefab-11" alt="youssefab-11" /></a></p>
 
 <!--
 **youssefab-11/youssefab-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
