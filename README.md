@@ -58,9 +58,7 @@
 </picture>
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefab-11" alt="youssefab-11" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefab-11&show_icons=true&locale=en" alt="youssefab-11" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefab-11&" alt="youssefab-11" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefab-11&show_icons=true&locale=en&layout=compact" alt="youssefab-11" /></p>
+
 
 <!--
 **youssefab-11/youssefab-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
