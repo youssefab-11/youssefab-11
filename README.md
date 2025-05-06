@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Youssef Abbes</h1>
-🎓 Industrial IT and Automation Engineering student at [INSAT, Tunisia](https://www.insat.rnu.tn/)  
-🤖 AI Enthusiast | 🧠 Machine Learning Engineer  
-💻 Passionate about solving real-world problems using data and intelligent systems  
+<p>🎓 Industrial IT and Automation Engineering student at <a href="https://www.insat.rnu.tn/" target="_blank">INSAT, Tunisia</a></p>
+<p>🤖 AI Enthusiast | 🧠 Machine Learning Engineer</p>
+<p>💻 Passionate about solving real-world problems with data and intelligent systems</p>
 
 
 
