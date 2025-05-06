@@ -5,10 +5,10 @@
 
 
 
-- 🔭 I’m currently working on my Professional Personal Project 
-- 🌱 I’m currently learning Building RAG Agents with LLMs 
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ... (what to add here)
+-- 🔭 I’m currently working on my Personal Project: **AI-Powered Road Sign Recognition for Driver Assistance and Autonomous Navigation**
+- 🌱 I’m currently learning **how to build RAG agents with LLMs**
+- 👯 I’m looking to collaborate on **AI/ML projects**
+
 
 
 <h2>🚀 Languages and Tools I Use</h2>
