@@ -70,13 +70,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youssefab-11/youssefab-11/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youssefab-11/youssefab-11/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/youssefab-11/youssefab-11/output/github-snake.svg" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 <!--
 **youssefab-11/youssefab-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
