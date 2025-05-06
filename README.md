@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Youssef Abbes</h1>
-<p>🎓 Industrial IT and Automation Engineering student at [INSAT, Tunisia](https://www.insat.rnu.tn/)  
+🎓 Industrial IT and Automation Engineering student at [INSAT, Tunisia](https://www.insat.rnu.tn/)  
 🤖 AI Enthusiast | 🧠 Machine Learning Engineer  
 💻 Passionate about solving real-world problems using data and intelligent systems  
- </p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
