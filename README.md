@@ -21,7 +21,6 @@
 - 🤖 Passionate about **applied AI**, LLMs, and building systems that work in the real world
 - 🔭 Currently building **BMO** — a real-time AI conversational assistant with IoT integration (FastAPI, WebSockets, STT/TTS, LLMs)
 - 🧠 Working with **RAG pipelines**, agentic workflows, and LLM integration in production
-- 🏆 Baccalaureate ranked **1st in Sfax** · Top student at INSAT
 - 📫 Reach me at **youssef.abbes111@gmail.com**
 
 ---
