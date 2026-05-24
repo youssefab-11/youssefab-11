@@ -26,34 +26,7 @@
 
 ---
 
-## 🛠️ Experience
-
-**🤖 AI Intern — Yonnov'IA** *(Jun–Sep 2025 · Remote, France)*
-- Built an LLM-based CV scoring system integrated into Odoo 17 (Mistral, Ollama)
-- Implemented a document-processing pipeline with Tesseract OCR and Poppler
-- Designed a batch CV upload feature with automated candidate data extraction
-
-**📊 AI & Business Intelligence Intern — Sagemcom** *(Jul–Aug 2025 · Tunis)*
-- Developed an AI-powered chatbot as a Power BI visual (TypeScript, Power BI Visuals SDK)
-- Built a Flask backend translating natural-language queries into dynamic SQL via LLMs
-- Worked with industrial KPIs and production data to support decision-making
-
-**💻 Software Developer Intern — Junior Enterprise INSAT** *(Aug–Sep 2024 · Tunis)*
-- Led a 3-member team building an internal HR management web app
-- Built the frontend with React.js and Material UI using Agile/Scrum methodology
-
----
-
-## 🚀 Projects
-
-| Project | Stack | Description |
-|--------|-------|-------------|
-| **BMO – Conversational Assistant** | FastAPI, WebSockets, STT/TTS, LLMs | End-to-end AI assistant with speech recognition, real-time communication, and IoT integration |
-| **Driver Assistance Road Sign Recognition** | Python, OpenCV, YOLO | Real-time detection and classification of road signs for driver assistance |
-| **Robotic Chess Coach** | C++, Computer Vision | Board recognition and move analysis using real-time computer vision |
-
----
-
+      
 ## 🧰 Languages & Tools
 
 ### Languages
@@ -98,26 +71,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
----
-
-## 🌍 Languages
-
-| Language | Level |
-|----------|-------|
-| Arabic | Native |
-| French | Fluent |
-| English | Fluent |
-| German | Basic |
-
----
-
-## 🏅 Activities & Leadership
-
-- **OCVP Adjoint – Hackathon** · Forum INSAT Enterprise *(Oct–Dec 2024)*
-  - Co-led Hack for Good 3.0, overseeing team coordination and event structure
-- **Logistics Manager** · AINS – AI National Summit, IEEE INSAT CS *(Dec 2023–Nov 2024)*
-  - Managed supplier negotiations, reduced event costs by 20%
 
 ---
 
