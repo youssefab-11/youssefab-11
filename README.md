@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Abbes</h1>
-<h3 align="center">Engineering Student at INSAT · Applied AI & Backend Development</h3>
-
+<h3 align="center">AI Engineering Student at INSAT</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/youssefabbes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
